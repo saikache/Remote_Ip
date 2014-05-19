@@ -1,0 +1,17 @@
+ 
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: remoteid_development
+  pool: 5
+  username: postgres
+  password: maheshwari
+ 
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: remoteid_production
+  pool: 5
+  username: postgres
+  password: maheshwari
